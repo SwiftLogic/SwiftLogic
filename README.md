@@ -1,5 +1,6 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_Developer_brandmark.svg/1280px-Apple_Developer_brandmark.svg.png)
 <h1 align="center">Hi 👋, I'm Osaretin Uyigue</h1>
-<h3 align="center">An  iOS Developer with keen Interests in Behavioral Economics, Psychology, & Growth Hacking</h3>
+<h3 align="center">An  iOS Developer with keen Interests in Behavioral Economics, Psychology & Growth Hacking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samisays11&label=Profile%20views&color=0e75b6&style=flat" alt="samisays11" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://samisays11.github.io/](https://samisays11.github.io/)
 
-- 💬 Ask me about **Swift, all-things-iOS, Kotlin & Behavioral Psychology**
+- 💬 Ask me about **Swift, all-things-iOS or Behavioral Psychology**
 
 - 📫 How to reach me **samuel.uyigue@gmail.com**
 
@@ -19,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/osaretinuyigue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/osaretinuyigue" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
