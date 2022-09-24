@@ -1,4 +1,5 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_Developer_brandmark.svg/1280px-Apple_Developer_brandmark.svg.png)
+![An  iOS Developer with keen Interests in Behavioral Economics, Psychology   Growth Hacking](https://user-images.githubusercontent.com/40702459/192105227-5bf57780-47f3-47fd-8555-89425791fefb.png)
+
 <h1 align="center">Hi 👋, I'm Osaretin Uyigue</h1>
 <h3 align="center">An  iOS Developer with keen Interests in Behavioral Economics, Psychology & Growth Hacking</h3>
 
