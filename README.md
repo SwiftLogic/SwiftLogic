@@ -1,6 +1,6 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_Developer_brandmark.svg/1280px-Apple_Developer_brandmark.svg.png)
 
-<h1 align="center">Hi 👋, I'm Osaretin Uyigue</h1>
+<h1 align="center">Hi 👋, I'm Osas</h1>
 <h3 align="center">An  iOS Developer with keen Interests in Behavioral Economics, Psychology & Growth Hacking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftlogic&label=Profile%20views&color=0e75b6&style=flat" alt="swiftlogic" /> </p>
