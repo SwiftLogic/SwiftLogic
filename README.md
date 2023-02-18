@@ -15,8 +15,8 @@
 
 - 💬 Ask me about **Swift, all-things-iOS or Behavioral Psychology**
 
-- 📫 How to reach me **samuel.uyigue@gmail.com**
-
+<!-- - 📫 How to reach me **samuel.uyigue@gmail.com**
+ -->
 - ⚡ Fun fact **I'm both a bibliophile and a strength athlete.**
 
 <h3 align="left">Connect with me:</h3>
