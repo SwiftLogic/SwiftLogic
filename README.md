@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftlogic&label=Profile%20views&color=0e75b6&style=flat" alt="swiftlogic" /> </p>
 
-- 🔭 I’m currently working on [Grinn](https://swiftlogic.github.io/posts/porfolio-grinn/)
+- 🔭 I’m currently working on [**Grinn**](https://swiftlogic.github.io/posts/porfolio-grinn/)
 
 - 🌱 I’m currently learning **Combine & Reactive Programming in iOS**
 
-- 👨‍💻 All of my projects are available at [https://swiftlogic.github.io/posts/portfolio/](https://swiftlogic.github.io/posts/portfolio/)
+- 👨‍💻 Most of my projects are available in [**My Portfolio 💼**](https://swiftlogic.github.io/posts/portfolio/)
 
-- 📝 I regularly write articles on [https://swiftlogic.github.io/](https://swiftlogic.github.io/)
+- 📝 I regularly write articles on my website at [**Swiftlogic 🕸**](https://swiftlogic.github.io/)
 
 - 💬 Ask me about **Swift, all-things-iOS or Behavioral Psychology**
 
