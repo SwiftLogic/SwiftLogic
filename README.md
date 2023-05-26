@@ -7,18 +7,18 @@
 
 - 🔭 I’m currently working on [**Grinn**](https://swiftlogic.github.io/posts/porfolio-grinn/)
 
-- 🌱 I’m currently learning **Combine & Reactive Programming in iOS**
+- 🌱 I’m currently learning **Kotlin Jetpack Compose**
 
-- 👨‍💻 Most of my projects are available in [**My Portfolio 💼**](https://swiftlogic.github.io/posts/portfolio/)
-
+<!-- - 👨‍💻 Most of my projects are available in [**My Portfolio 💼**](https://swiftlogic.github.io/posts/portfolio/)
+ -->
 - 📝 I regularly write articles on my website at [**Swiftlogic 🕸**](https://swiftlogic.github.io/)
 
 - 💬 Ask me about **Swift, all-things-iOS or Behavioral Psychology**
 
 <!-- - 📫 How to reach me **samuel.uyigue@gmail.com**
  -->
-- ⚡ Fun fact **I'm both a bibliophile and a strength athlete.**
-
+<!-- - ⚡ Fun fact **I'm both a bibliophile and a strength athlete.**
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/osaretinuyigue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/osaretinuyigue" height="30" width="40" /></a>
