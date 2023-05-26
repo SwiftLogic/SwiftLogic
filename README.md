@@ -13,7 +13,7 @@
  -->
 - 📝 I regularly write articles on my website at [**Swiftlogic 🕸**](https://swiftlogic.github.io/)
 
-- 💬 Ask me about **Swift, all-things-iOS or Behavioral Psychology**
+- 💬 Ask me about **Mobile Engineering or Behavioral Psychology**
 
 <!-- - 📫 How to reach me **samuel.uyigue@gmail.com**
  -->
