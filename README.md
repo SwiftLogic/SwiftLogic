@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swiftlogic&label=Profile%20views&color=0e75b6&style=flat" alt="swiftlogic" /> </p>
 
-- 🔭 I’m currently working on [Grinn](https://samisays11.github.io/posts/porfolio-grinn/)
+- 🔭 I’m currently working on [Grinn](https://swiftlogic.github.io/posts/porfolio-grinn/)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
