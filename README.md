@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**Grinn**](https://swiftlogic.io/posts/porfolio-grinn/)
 
-- 🌱 I’m currently learning **Vapor 💧** for Backend Engineering
+- 🌱 I’m currently learning **NodeJS 💻** for Backend Engineering
 
 - 👨‍💻 Some of my projects are available at [**Here**](https://swiftlogic.io/posts/portfolio/)
 
