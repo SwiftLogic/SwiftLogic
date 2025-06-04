@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Something Special**
 
-- 🌱 I’m currently learning **NodeJS 💻** for Backend Engineering
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 Some of my projects are available at [**Here**](https://swiftlogic.io/posts/portfolio/)
 
